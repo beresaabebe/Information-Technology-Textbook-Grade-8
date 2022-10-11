@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702759034006",
+    "project_id": "information-technology-grade-8",
+    "storage_bucket": "information-technology-grade-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702759034006:android:dbf03c2a1a0dab76e976b7",
+        "android_client_info": {
+          "package_name": "com.beckytech.informationtechnologygrade8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702759034006-pq1gpebrj9fq8gombt1iqe966t89mcnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPLsqtRzmoOdBgJh7cDEiADtzwCx_KYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702759034006-pq1gpebrj9fq8gombt1iqe966t89mcnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
